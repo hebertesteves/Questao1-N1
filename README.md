@@ -50,7 +50,7 @@ Você pode utilizar **qualquer uma das opções abaixo** para abrir e testar o p
 ### ✅ Opção 2: Usando o projeto compactado
 
 1. Baixe e extraia o arquivo `.zip` disponível no repositório:  
-   [`250411-Questao1.zip`](https://github.com/hebertesteves/Questao1-N1/blob/main/Questao1.zip)
+   [`250411-Questao1.zip`](https://github.com/hebertesteves/Questao1-N1/blob/main/250411-Questao1.zip)
 
 2. Abra a pasta extraída no Android Studio;
 
