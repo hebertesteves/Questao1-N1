@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings do Projeto -->
+    <string name="appTitulo">Sistema de Compras</string>
+    <string name="appSubTitulo">Escolha seu produto</string>
+    <string name="btnTotalCompra">Total de Compra</string>
+    <string name="checkArroz">Arroz (R$ 2,69)</string>
+    <string name="checkLeite">Leite (R$ 5,00)</string>
+    <string name="checkCarne">Carne (R$ 10,00)</string>
+    <string name="checkFeijao">Feijão (R$ 2,30)</string>
+    <string name="checkRefrigerante">Refrigerante Coca-Cola (R$ 2,00)</string>
+    <string name="textResultado">-------</string>
+
+    <!-- Cores do Projeto -->
+    <color name="appColorLaranja">#FE8D01</color>
+    <color name="appColorBranco">#FFFFFF</color>
+    <color name="appColorPreto">#000000</color>
+
+</resources>
